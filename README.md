@@ -13,7 +13,7 @@ with cuts and with the first move of each cycle.
 ## Files
 - `Data_Collection.R` – downloads Bank of England and ONS data and builds the dataset
 - `boe_logit_analysis.R` – estimates the model and runs the expanding-window evaluation
-- `mpc_model_data.csv` – the cleaned dataset
+- `mpc_model_data.csv` – the dataset used to replicate the report 
 
 ## How to run
 Open `boe_logit_analysis.R` in RStudio and run it. Requires the `tidyverse` and `MASS` packages.
